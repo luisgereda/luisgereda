@@ -1,5 +1,5 @@
 ## Hi there 👋 
-### I am Luis! I come from Peru🇵🇪 and currently I live in Amsterdam, The Netherlands.🇳🇱 
+### I am Luis! I come from Peru🇵🇪  and currently I live in Amsterdam, The Netherlands🇳🇱 
 
 I started a full-stack JavaScript program at [Codaisseur](https://codaisseur.com/) in April 2021, where I have learn important frameworks and libraries such as JavaScript, React, Redux, REST API, PostgreSQL, Node.Js, and Express.🚀
 
